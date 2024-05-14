@@ -1,0 +1,3 @@
+openai
+gradio
+sk-proj-Ya6wOPw5LyxG5MI4rHnsT3BlbkFJn6rTY5qfjm6Bx2L2ecMI
